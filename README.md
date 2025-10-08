@@ -1,4 +1,3 @@
-````md
 # Playwright Agents Demo Project
 
 This project shows how to make browser tests using **Playwright** plus **Agents** (Planner, Generator, Healer).  
@@ -133,5 +132,3 @@ root/
 3. Open in VS Code (ensure agent UI works).
 4. Run `npx playwright test` to see tests run.
 5. To add a new workflow (ex: “search product”), ask Planner and Generator to generate it, then run & heal.
-
-```
